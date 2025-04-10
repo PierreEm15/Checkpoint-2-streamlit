@@ -1,0 +1,6 @@
+joblib 
+streamlit
+
+seaborn 
+scikit-learn
+xgboost
